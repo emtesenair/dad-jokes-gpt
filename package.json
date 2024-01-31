@@ -1,0 +1,12 @@
+{
+  "name": "dad-jokes-gpt",
+  "version": "1.0.0",
+  "description": "Welcome to the Dad Jokes GPT repository! This is a specialized version of ChatGPT, designed to deliver humorous dad jokes with a unique twist. It swiftly presents a joke's text and then creates a related image, visually encapsulating the humor of the joke. Give the live version a try at: [https://chat.openai.com/g/g-xuJ4d3MzM-dad-jokes](https://chat.openai.com/g/g-xuJ4d3MzM-dad-jokes)",
+  "main": "dad-joke-api-proxy.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node dad-joke-api-proxy.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
